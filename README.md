@@ -45,6 +45,7 @@ technical_background:
   [
     "Software Development Engineer @Amazon, Jan 2023 - Present",
     "Software Engineer @Vacuumlabs, Jul 2021- Oct 2022",
+    "Fullstack Developer @HappyFit, Nov 2020- Apr 2021",
     "Software Intern @Jotform, Jun-Aug 2020",
     "Software Intern @Ekinoks Software, Jun-Aug 2019",
   ]
